@@ -1,0 +1,6 @@
+
+7. New Orleans Saints had the highest percent of pass completions in 2016.
+
+Link:
+
+https://public.tableau.com/profile/alvaro.camacho#!/vizhome/DataVisualizationwithTableau-NFLStats/NumberofgamesYear
